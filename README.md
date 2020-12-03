@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah Alharbi</h1>
+<h1 align="center">Hi 👋,
+  I'm Abdullah Alharbi</h1>
 <h3 align="center">I am a passionate data scientist / data analyst from Saudi Arabia. I live by learning something every day. My goals are to make a difference, working in meaningful projects and be efficient at it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alharbiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alharbiabdullah" /> </p>
