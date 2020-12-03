@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alharbiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alharbiabdullah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/s1987abdullah" target="blank"><img src="https://img.shields.io/twitter/follow/s1987abdullah?logo=twitter&style=for-the-badge" alt="s1987abdullah" /></a> </p>
-
-- 🌱 I’m currently learning **Everything!**
 
 - 👯 I’m looking to collaborate on **Any data projects in Saudi Arabia**
 
