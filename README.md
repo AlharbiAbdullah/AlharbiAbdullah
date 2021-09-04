@@ -19,29 +19,29 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="aws" width="80" height="80"/>
-   <a href="https://aws.amazon.com" target="_blank"> <img src="https://1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg?_ga=2.219934169.1161718475.1630788779-372719105.1630788779" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-   </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker" width="40" height="40"/> </a> 
-   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://blog.gft.com/wp-content/uploads/2014/10/Hadoop-Logo11.jpg" alt="hadoop" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com" target="_blank"> <img src="https://1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg?_ga=2.219934169.1161718475.1630788779-372719105.1630788779" alt="aws" width="80" height="80"/> </a> 
+   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
+   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> 
+   </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="80" height="80"/> </a> 
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker" width="80" height="80"/> </a> 
+   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="80" height="80"/> </a> 
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
+   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="80" height="80"/> </a> 
+   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://blog.gft.com/wp-content/uploads/2014/10/Hadoop-Logo11.jpg" alt="hadoop" width="80" height="80"/> </a> 
 
-   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://pig.apache.org/images/pig-logo.gif" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="mongodb" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo-678x381.png" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="postgresql" width="40" height="40"/> </a>
+   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="80" height="80"/> </a> 
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://pig.apache.org/images/pig-logo.gif" alt="html5" width="80" height="80"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png" alt="javascript" width="80" height="80"/> </a> 
+   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="80" height="80"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="mongodb" width="80" height="80"/> </a> 
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo-678x381.png" alt="mysql" width="80" height="80"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="80" height="80"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="postgresql" width="80" height="80"/> </a>
    
-   <a href="https://www.python.org" target="_blank"> <img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" alt="python" width="40" height="40"/> </a> 
-      <a href="https://www.python.org" target="_blank"> <img src="https://www.import.io/wp-content/uploads/2012/04/java-logo-1.png" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.python.org" target="_blank"> <img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" alt="python" width="80" height="80"/> </a> 
+      <a href="https://www.python.org" target="_blank"> <img src="https://www.import.io/wp-content/uploads/2012/04/java-logo-1.png" alt="python" width="80" height="80"/> </a>
    
-   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alharbiabdullah&show_icons=true&locale=en" alt="alharbiabdullah" /></p>
