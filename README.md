@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋,
-  I'm Abdullah Alharbi</h1>
-<h3 align="center">I am a passionate data scientist / data analyst from Saudi Arabia. I live by learning something every day. My goals are to make a difference, working in meaningful projects and be efficient at it.</h3>
+   Welcom to my GitHub Page</h1>
+<h3 align="center">My passion is working with data in general, especially working on end-to-end data solutions; starting from understanding the output needs or business needs, to architecture and creating a data pipeline that provide the satisfied solution. In my Full-time job, I work as an ETL developer and sometimes I wear different hats on my job by collaborating on different projects such as (Business Intelligence, Data quality, Data governance, SQL development,  Data warehouse Architecture). I’m looking to collaborate in meaningful projects (paid or volunteering) where I can offer a strong input and collaboration on data engineering, data analytics, and Cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alharbiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alharbiabdullah" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Any data projects in Saudi Arabia**
+- I’m looking to collaborate on **Data Engineering / Data science / ML and DL devolpment **
 
-- 💬 Ask me about **Data analysis, python, BI, and ML&DL**
+- Ask me about **Data Engineering / Data science / BI / Cloud computing**
 
-- 📫 How to reach me **Alharbi.s.Abdullah@gmail.com**
+- How to reach me **Alharbi.s.Abdullah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/s1987abdullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s1987abdullah" height="30" width="40" /></a>
+<a href="https://twitter.com/abdullahASZ19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdullahASZ19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
