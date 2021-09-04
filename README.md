@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alharbiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alharbiabdullah" /> </p>
 
 
-- I’m looking to collaborate on **Data Engineering / Data science / ML and DL devolpment**
+- I’m looking to collaborate on **Data Engineering / Data science / Cloud computing/ ML and DL devolpment**
 
 - Ask me about **Data Engineering / Data science / BI / Cloud computing**
 
