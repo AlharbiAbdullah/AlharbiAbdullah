@@ -18,7 +18,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="aws" width="80" height="80"/>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="aws" width="60" height="60"/>
    <a href="https://aws.amazon.com" target="_blank"> <img src="https://1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg?_ga=2.219934169.1161718475.1630788779-372719105.1630788779" alt="aws" width="80" height="80"/> </a> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> 
