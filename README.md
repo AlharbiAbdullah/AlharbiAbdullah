@@ -11,11 +11,6 @@
 
 - How to reach me **Alharbi.s.Abdullah@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdullahASZ19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdullahASZ19" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="aws" width="50" height="50"/><a href="https://aws.amazon.com" target="_blank"> <img src="https://1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg?_ga=2.219934169.1161718475.1630788779-372719105.1630788779" alt="aws" width="70" height="50"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a><a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="60" height="60"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://www.saturnme.com/wp-content/uploads/2019/10/vertical-logo-monochromatic-1.png" alt="docker" width="50" height="50"/> </a><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="60"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/> </a> 
