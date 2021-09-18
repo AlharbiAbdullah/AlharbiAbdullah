@@ -6,7 +6,7 @@
 
 
 - I’m looking to collaborate on **Data Engineering / Data science / Cloud computing / ML and DL devolpment**
-- 
+
 - How to reach me **Alharbi.s.Abdullah@gmail.com**
 
 <h3 align="left">Tools:</h3>
