@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,
-   Welcom to my GitHub Page</h1>
+## About me:
+----
 <h3 align="center">My passion is working with data in general, especially working on end-to-end data solutions; starting from understanding the output needs or business needs, to architecture and creating a data pipeline that provide the satisfied solution. In my Full-time job, I work as an ETL developer and sometimes I wear different hats on my job by collaborating on different projects such as (Business Intelligence, Data quality, Data governance, SQL development,  Data warehouse Architecture). I’m looking to collaborate in meaningful projects (paid or volunteering) where I can offer a strong input and collaboration on data engineering, data analytics, and Cloud computing.</h3>
 
 
