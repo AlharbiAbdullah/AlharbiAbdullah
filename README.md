@@ -8,10 +8,8 @@ _________
 
 **How to reach me:**
 - email
-
         alharbi.s.abdullah@gmail.com
 - phone: 
-  
         +966580436191 
 
 
