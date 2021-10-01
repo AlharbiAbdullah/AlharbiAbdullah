@@ -1,11 +1,15 @@
 ## About me:
-----
-<h3 align="center">My passion is working with data in general, especially working on end-to-end data solutions; starting from understanding the output needs or business needs, to architecture and creating a data pipeline that provide the satisfied solution. In my Full-time job, I work as an ETL developer and sometimes I wear different hats on my job by collaborating on different projects such as (Business Intelligence, Data quality, Data governance, SQL development,  Data warehouse Architecture). I’m looking to collaborate in meaningful projects (paid or volunteering) where I can offer a strong input and collaboration on data engineering, data analytics, and Cloud computing.</h3>
+___
 
+**My passion and intrests is to work with data; building an end-to-end data solutions, helping companies gain an insights, or take an action by creating a meaningful result from raw data.**
 
-- I’m looking to collaborate on **Data Engineering / Data science / Cloud computing / ML and DL devolpment**
+ **In my Full-time job, I work as an ETL developer and sometimes I wear different hats on my job by collaborating on different projects such as (BI, Data quality, Data governance, SQL development,  Data warehouse Architecture, data collection).**
 
-- How to reach me **Alharbi.s.Abdullah@gmail.com**
+**I’m looking to collaborate in meaningful projects (paid or volunteer) where I can offer a strong input and collaboration on data engineering, data analytics, and Cloud computing.**
+_________
+  
+     I’m looking to collaborate on Data Engineering / Data science / Cloud computing / ML and DL devolpment
+
 
 <h3 align="left">Tools:</h3>
 <p align="left">
