@@ -1,5 +1,5 @@
 ## About me:
-**My passion and intrest is to work with data; building an end-to-end data solutions, helping companies gain an insights, or take an action by provideing results from raw data.**
+**My passion and intrest is to work with data; building an end-to-end data solutions, creating data platforms, helping companies gain an insights, or take an action by provideing results from raw data.**
 
  **In my Full-time job, I work as an ETL developer and sometimes I wear different hats by collaborating on different projects such as (BI, Data quality, Data governance, SQL development,  Data warehouse Architecture, data collection).**
 
