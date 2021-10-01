@@ -26,5 +26,5 @@ _________
 ## Best way to navigate my GitHub:
 ____
 ## I have Pinned two repos down below (Data Engineering , Data science). Each repo has a projects and topics folders. 
-  **Navigate through them hlopfully you can find somthing useful. 
+  **Navigate through them hlopfully you can find somthing useful.**
 
