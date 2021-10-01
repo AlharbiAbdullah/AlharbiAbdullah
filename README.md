@@ -6,7 +6,7 @@
 **I’m looking to collaborate in meaningful projects (paid or volunteer) where I can offer a strong input and collaboration on data engineering, data analytics, and Cloud computing.**
 _________
 
-- How to reach me:
+**How to reach me:**
 - email
 
         alharbi.s.abdullah@gmail.com
