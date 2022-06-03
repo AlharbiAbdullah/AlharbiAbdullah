@@ -26,4 +26,4 @@
 ## Best way to navigate my GitHub:
 ### I have Pinned Two repos down below:
 - Data-projects: Has my data-show-case projects 
-- Everything Else: Has random projects or things mostly not realted to data. 
+- Everything Else: Has random projects or things mostly not realted to data.
