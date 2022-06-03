@@ -25,6 +25,6 @@ _________
 
 
 ## Best way to navigate my GitHub:
-### I have Pinned three repos down below (Data Engineering , Data science , Everything else). Each repo has a projects and topics folders. 
+### I have Pinned Two repos down below (Data-Projects, Everything else). Data projects has all the projects I have been working on. 
   **Navigate through them hopefully you can find somthing useful.**
 
