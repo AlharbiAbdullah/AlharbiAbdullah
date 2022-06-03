@@ -12,7 +12,7 @@
 - Preforme Data quilty practices, data quility assurance. 
 
 ## What I'm looking for:
-- Collaborating in meaningful projects (Paid or volunterring). 
+- Collaborating in meaningful projects (Paid or Volunterring). 
 ---
 
 ## How to reach me: 
