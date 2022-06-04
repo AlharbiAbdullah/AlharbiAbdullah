@@ -24,4 +24,4 @@
         +966580436191 
 
 ## Best way to navigate my GitHub:
-- Checkout the pinned project below. 
+- Checkout the pinned projects below. 
