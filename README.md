@@ -1,5 +1,5 @@
 # About me:
-## My passion and intrest:
+## My passion and interests:
 - Building and automating robust data solutions.
 - Creating data platforms/pipelines.
 - Helping companies gain insights, or take actions.
