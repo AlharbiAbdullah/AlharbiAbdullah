@@ -1,17 +1,17 @@
 # About me:
-## My passion and interests:
+## Passion and interests:
 - Building and automating robust data solutions.
 - Creating data platforms/pipelines.
 - Helping companies gain insights, or take actions.
 
-## What I do at my current job:
+## Current job:
 - Data collection from many different sources (APIs, SFTPs,  files, Databases) 
 - ETL based on the requirments. 
 - Building databases/ data warehouses
 - Automating the process. 
 - Preforme Data quilty practices, data quility assurance. 
 
-## What I'm looking for:
+## Looking for:
 - Collaborating in meaningful projects. 
 ---
 
