@@ -8,27 +8,11 @@
 
 ---
 
-## `> whoami`
+## About Me
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Abdullah Al Harbi"
-        self.location = "Riyadh, Saudi Arabia"
-        self.role = "Data Engineer"
+Data Engineer based in **Riyadh, Saudi Arabia**.
 
-    @property
-    def daily_grind(self):
-        return [
-            "Architecting data pipelines that don't break at 3 AM",
-            "Turning messy data into actionable insights",
-            "Automating everything that moves (twice)"
-        ]
-
-    @property
-    def coffee_to_code_ratio(self):
-        return float('inf')
-```
+I build data infrastructure that helps companies collect, transform, and act on their data. My work focuses on creating reliable pipelines, scalable warehouses, and automated workflows that just work.
 
 ---
 
