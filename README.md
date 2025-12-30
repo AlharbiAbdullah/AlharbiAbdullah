@@ -69,23 +69,6 @@ I build data infrastructure that helps companies collect, transform, and act on 
   <img src="https://skillicons.dev/icons?i=python,postgresql,docker,kubernetes,git,linux,bash,vscode&theme=dark&perline=8" />
 </p>
 
-<details>
-<summary><b>Full Stack Details</b></summary>
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, SQL, Bash |
-| **Databases** | PostgreSQL, MySQL, BigQuery, Snowflake |
-| **Data Tools** | Apache Airflow, dbt, Spark, Kafka |
-| **Cloud** | GCP, AWS |
-| **Containers** | Docker, Kubernetes, Docker Compose |
-| **Version Control** | Git, GitHub, GitLab |
-| **Monitoring** | Grafana, Prometheus |
-
-</details>
-
----
-
 ## Featured Projects
 
 <a href="https://github.com/AlharbiAbdullah/streaming_db_with_CDC">
