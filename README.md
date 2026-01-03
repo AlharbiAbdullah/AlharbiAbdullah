@@ -41,11 +41,11 @@ I build data infrastructure that helps companies collect, transform, and act on 
 </td>
 <td width="50%">
 
-### Data Quality & Governance
-- Data validation and cleansing
-- Quality assurance frameworks
-- Documentation and lineage tracking
-- Schema evolution management
+### AI Systems & LLMOps
+- RAG Architecture & Optimization
+- LLMOps & Model Lifecycle
+- AI Data Engineering
+- Smart systems
 
 </td>
 </tr>
