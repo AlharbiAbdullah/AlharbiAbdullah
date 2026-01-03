@@ -6,7 +6,7 @@ I build data infrastructure that helps companies collect, transform, and act on 
 
 ---
 
-## What I Actually Do
+## What I Do
 
 <table>
 <tr>
