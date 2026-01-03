@@ -41,7 +41,7 @@ I build data infrastructure that helps companies collect, transform, and act on 
 </td>
 <td width="50%">
 
-### AI Systems & AIops
+### AI Systems & AIOps
 - RAG Architecture & Optimization
 - LLMOps & Model Lifecycle
 - AI Data Engineering
