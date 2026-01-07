@@ -1,6 +1,6 @@
 ## About Me
 
-Data Engineer based in **Riyadh, Saudi Arabia**.
+Data Engineer.
 
 I build data infrastructure that helps companies collect, transform, and act on their data. My work focuses on creating reliable pipelines, scalable warehouses, and automated workflows that just work.
 
