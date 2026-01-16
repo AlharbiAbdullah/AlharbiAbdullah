@@ -16,7 +16,7 @@ I build data infrastructure that helps companies collect, transform, and act on 
 - Design and build **data warehouses** and **lakehouses**
 - Create scalable **ETL/ELT pipelines**
 - Implement **data quality frameworks**
-- Set up monitoring and alerting systems
+- Set up observability and monitoring
 
 </td>
 <td width="50%">
@@ -24,7 +24,6 @@ I build data infrastructure that helps companies collect, transform, and act on 
 ### Data Collection & Integration
 - Connect to **APIs**, **SFTPs**, **databases**
 - Handle diverse file formats and sources
-- Build **CDC (Change Data Capture)** pipelines
 - Real-time and batch data processing
 
 </td>
@@ -32,20 +31,20 @@ I build data infrastructure that helps companies collect, transform, and act on 
 <tr>
 <td width="50%">
 
-### Automation & DevOps
-- **Containerize** everything with Docker
-- Orchestrate with **Kubernetes**
+### Platform & DevOps
+- Containerization (Docker) & Orchestration (Kubernetes)
 - CI/CD pipelines for data workflows
-- Infrastructure as Code practices
+- Infrastructure as Code (Terraform)
+- GitOps practices
 
 </td>
 <td width="50%">
 
-### AI Systems & AIOps
-- RAG Architecture & Optimization
-- LLMOps & Model Lifecycle
-- AI Data Engineering
-- Smart systems
+### AI & LLM Engineering
+- RAG Architecture & Vector Search
+- LLMOps & Model Lifecycle Management
+- AI-Powered Data Pipelines
+- Intelligent Automation (AIOps)
 
 </td>
 </tr>
