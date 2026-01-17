@@ -16,17 +16,11 @@ I build data infrastructure that helps companies collect, transform, and act on 
 - Design and build **data warehouses** and **lakehouses**
 - Create scalable **ETL/ELT pipelines**
 - Implement **data quality frameworks**
-- Set up observability and monitoring
+- Working with different types of databases, ETL tools, and big data frameworks
 
 </td>
 <td width="50%">
 
-### Data Collection & Integration
-- Connect to **APIs**, **SFTPs**, **databases**
-- Handle diverse file formats and sources
-- Real-time and batch data processing
-
-</td>
 </tr>
 <tr>
 <td width="50%">
