@@ -18,7 +18,8 @@ I build data infrastructure that helps companies collect, transform, and act on 
 - Implement **data quality frameworks**
 - Working with different types of databases, ETL tools, and big data frameworks
 
-
+</td>
+<td width="50%">
 
 ### Platform & DevOps
 - Containerization (Docker) & Orchestration (Kubernetes)
