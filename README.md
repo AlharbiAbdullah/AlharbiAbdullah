@@ -10,27 +10,27 @@ I build data infrastructure that helps companies collect, transform, and act on 
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Data Infrastructure
+### 🏗️ Data Infrastructure
 - Design and build **data warehouses** and **lakehouses**
 - Create scalable **ETL/ELT pipelines**
 - Implement **data quality frameworks**
-- Working with different types of databases, ETL tools, and big data frameworks
+- Work with databases, ETL tools, and big data frameworks
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Platform & DevOps
+### ⚙️ Platform & DevOps
 - Containerization (Docker) & Orchestration (Kubernetes)
 - CI/CD pipelines for data workflows
 - Infrastructure as Code (Terraform)
 - GitOps practices
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### AI & LLM Engineering
+### 🤖 AI & LLM Engineering
 - RAG Architecture & Vector Search
 - LLMOps & Model Lifecycle Management
 - AI-Powered Data Pipelines
