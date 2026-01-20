@@ -39,3 +39,8 @@ I build data infrastructure that helps companies collect, transform, and act on 
 </td>
 </tr>
 </table>
+
+---
+
+## Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlharbiAbdullah&bg_color=282828&color=ebdbb2&line=fabd2f&point=fe8019&area=true&area_color=fabd2f&hide_border=true&custom_title=%20" width="100%"/>
