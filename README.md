@@ -1,46 +1,57 @@
 ## About Me
 
-Data Engineer.
+  Data & AI Engineer.
 
-I build data infrastructure that helps companies collect, transform, and act on their data. My work focuses on creating reliable pipelines, scalable warehouses, and automated workflows that just work.
+  I build data systems, automate infrastructure, and ship AI-powered tools.
+  I care about clean architecture, things that actually work, and solving real problems.
 
----
+  ---
 
-## What I Do
+  ## What I Do
 
-<table>
-<tr>
-<td width="33%" valign="top">
+  <table>
+  <tr>
+  <td width="25%" valign="top">
 
-### Data Infrastructure
-- Design and build **data warehouses** and **lakehouses**
-- Create scalable **ETL/ELT pipelines**
-- Implement **data quality frameworks**
-- Work with databases, ETL tools, and big data frameworks
+  ### Data
+  - Data warehouses and lakehouses
+  - ETL/ELT pipelines
+  - Data quality and modeling
+  - Spark, Dagster, dbt
 
-</td>
-<td width="33%" valign="top">
+  </td>
+  <td width="25%" valign="top">
 
-### Platform & DevOps
-- Containerization (Docker) & Orchestration (Kubernetes)
-- CI/CD pipelines for data workflows
-- Infrastructure as Code (Terraform)
-- GitOps practices
+  ### DevOps
+  - Docker and containers
+  - CI/CD automation
+  - Infrastructure as Code
+  - GitOps
 
-</td>
-<td width="33%" valign="top">
+  </td>
+  <td width="25%" valign="top">
 
-### AI & LLM Engineering
-- RAG Architecture & Vector Search
-- LLMOps & Model Lifecycle Management
-- AI-Powered Data Pipelines
-- Intelligent Automation (AIOps)
+  ### System Design
+  - Distributed systems
+  - Architecture patterns
+  - API design
+  - Trade-off analysis
 
-</td>
-</tr>
-</table>
+  </td>
+  <td width="25%" valign="top">
 
----
+  ### AI
+  - AI agents and tooling
+  - RAG and vector search
+  - AI-powered pipelines
+  - Claude, ChromaDB
+
+  </td>
+  </tr>
+  </table>
+
+  ---
+
 
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlharbiAbdullah&bg_color=282828&color=ebdbb2&line=fabd2f&point=fe8019&area=true&area_color=fabd2f&hide_border=true&custom_title=%20" width="100%"/>
