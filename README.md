@@ -2,7 +2,7 @@
 
   Data & AI Engineer.
 
-  I build data systems, automate infrastructure, and ship AI-powered tools.
+  I build data systems, automate infrastructure, and ship AI tools.
   I care about clean architecture, things that actually work, and solving real problems.
 
   ---
@@ -17,7 +17,6 @@
   - Data warehouses and lakehouses
   - ETL/ELT pipelines
   - Data quality and modeling
-  - Spark, Dagster, dbt
 
   </td>
   <td width="25%" valign="top">
@@ -35,7 +34,6 @@
   - Distributed systems
   - Architecture patterns
   - API design
-  - Trade-off analysis
 
   </td>
   <td width="25%" valign="top">
@@ -43,8 +41,8 @@
   ### AI
   - AI agents and tooling
   - RAG and vector search
-  - AI-powered pipelines
-  - Claude, ChromaDB
+  - AI pipelines
+
 
   </td>
   </tr>
