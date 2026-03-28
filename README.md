@@ -14,15 +14,16 @@
   <td width="25%" valign="top">
 
   ### Data
+  - Data modeling and architecture
   - Data warehouses and lakehouses
-  - ETL/ELT pipelines
-  - Data quality and modeling
+  - Pipeline design and orchestration
+  - Data quality and governance
 
   </td>
   <td width="25%" valign="top">
 
   ### DevOps
-  - Docker and containers
+  - Container-based deployments
   - CI/CD automation
   - Infrastructure as Code
   - GitOps
@@ -32,16 +33,18 @@
 
   ### System Design
   - Distributed systems
-  - Architecture patterns
+  - Architecture patterns and decisions
   - API design
+  - Scalability and trade-offs
 
   </td>
   <td width="25%" valign="top">
 
   ### AI
   - AI agents and tooling
-  - RAG and vector search
+  - RAG and retrieval systems
   - AI pipelines
+  - LLM integration
 
 
   </td>
